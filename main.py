@@ -113,7 +113,7 @@ footer_line.pack(pady=(15, 10))
 
 footer = tk.Label(
     card,
-    text="♡ Made with Python ♡",
+    text="Made with Python and Tkinter",
     font=("Segoe UI", 9, "italic"),
     fg="#48CAE4",
     bg="white"
